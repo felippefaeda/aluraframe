@@ -34,4 +34,6 @@ document.querySelector('.form').addEventListener('submit', function(event){
 
   console.log('Teste GIT 1');
 
+  console.log('Teste GIT 2');
+
 });
