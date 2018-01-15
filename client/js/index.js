@@ -32,6 +32,6 @@ document.querySelector('.form').addEventListener('submit', function(event){
 
   campos[0].focus();
 
-  console.log('Teste GIT');
+  console.log('Teste GIT 1');
 
 });
